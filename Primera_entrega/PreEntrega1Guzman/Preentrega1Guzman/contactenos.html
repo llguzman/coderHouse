@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./img/favicon.ico" type="image/x-icon">
+    <title>Formulario de Contacto</title>
+</head>
+
+<body>
+    <header>
+        <h1>
+            Contáctenos
+        </h1>
+    </header>
+
+    <main>
+        <form width="150px" action="" style="width:50%">
+            <fieldset>
+                <legend>Formulario de Contacto</legend>
+                <div>
+                    <label for="name">Nombre Completo</label>
+                    <input type="text" name="name" placeholder="Nombre">
+                </div>
+                <br>
+                <div>
+                    <label for="telephone">Número de contácto</label>
+                    <input type="text" name="telephone" placeholder="Número Contácto">
+                </div>
+                <br>
+                <div>
+                    <label for="mail">Escribe tu email *</label>
+                    <input type="email" name="mail" required>
+                </div>
+                <br>
+                <div>
+                    <label for="Departamento">Elige tu Municipio</label>
+                    <select name="state" id="">
+                        <option value="cun">Cundinamarca</option>
+                        <option value="ant">Antioquia</option>
+                        <option value="atl">Atlántico</option>
+                        <option value="boy">Boyacá</option>
+                    </select>
+                </div>
+                <br>
+                <div>
+                    <label for="services">Tipo de Servicio</label>
+                    <input type="radio" name="services" value="acueducto">Acueducto
+                    <input type="radio" name="services" value="serviciosp">Servicios Públicos
+                    <input type="radio" name="services" value="contratacion">Contratación
+                </div>
+                <br>
+                <div>
+                    <label for="comentarios">Escribe la necesidad</label>
+                    <br>
+                    <textarea name="comentarios" id="" cols="30" rows="10"></textarea>
+                </div>
+                <br>
+                <div>
+                    <label for="terminos">Acepto Terminos y Condiciones</label>
+                    <input type="checkbox" name="terminos" required>
+                </div>
+
+                <br>
+                <div>
+                    <input type="submit" value="Enviar Datos">
+                    <input type="reset" value="Borrar Datos">
+                </div>
+                <br>
+            </fieldset>
+        </form>
+    </main>
+</body>
+
+<footer>
+    <a href="./index.html">Página Principal</a>
+</footer>
+
+</html>

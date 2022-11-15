@@ -1,0 +1,82 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #191a18;
+    text-align: center;
+    font-weight: normal;
+    font-size: 30px;
+    margin: 1%;
+
+}
+
+.menu {
+    background-color: black;
+    padding: 0;
+    list-style-type: none;
+    margin: 10px auto;
+    text-align: center;
+    width: 50%;
+}
+
+
+.menu li {
+    display: inline;
+    text-align: center;
+}
+
+.menu li a {
+    padding: 20px;
+    margin: 10px;
+    color: greenyellow;
+    text-decoration: none;
+    display: inline-block;
+}
+
+h2 {
+    text-decoration: underline;
+    font-family: 'Noto Serif JP', serif;
+    color: blue;
+    font-size: 16px;
+    margin: 1%;
+}
+
+
+h3 {
+    text-decoration: underline;
+    font-family: 'Noto Serif JP', serif;
+    color: rgb(10, 10, 10);
+    font-size: 16px;
+    margin: 1%;
+}
+
+
+.parrafo {
+    overflow: hidden;
+    font-family: 'Quicksand', sans-serif;
+    color: green;
+    font-size: 14px;
+    margin: 1%;
+    padding: 1%;
+    text-align: justify;
+}
+
+.a {
+    margin: 10%;
+}
+
+.quiensoyp {
+    margin: 2%;
+    color: green;
+
+}
+
+.serviciosp{
+    margin: 2%;
+    color: blue;
+}

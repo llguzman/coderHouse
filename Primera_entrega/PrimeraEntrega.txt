@@ -1,0 +1,30 @@
+Balsamic, 10 withframe, minimo 3 html y 5 secciones
+menú al menos 5 enlaces, index, 2html al menos y los withframe
+
+.css 1 para todos los html
+
+ndex y 4 más html, por cada html 1 withframe 
+
+productos, productos de algo y productos de algo 
+2 secciones dentro de una página productos
+si hay otra pa´gina con otra sección + el index 
+
+links
+1 de index, todas las páginas aparece el index, las opciones de las otras secciones 
+contáctenos, conozcanos, quienes somos, multimedia 
+
+HTML mínimo 3, tiene q tener el doble de withframe de html, 3 en desktop y 3 e mobile.
+
+Se mete hasta boxmodeling, estilos de texto, background, margin y padding, flexblox no igresa. 
+debe tener boxmodeling, mirar en los ejemplos.  Plazo hasta el miercoles 2 a las 23:59 horario argentina.
+
+Validar la reentrega y corrección, se debe tener en cuenta. tutores tiene una semana para revisar.  Semana a semana para revisar.
+
+Notas son optimo, correcto y bajo.
+
+Valoraciones de clases, entrega en tiempo y forma.
+
+entrega por la plataforma.  La opción que dice primera preentrga, una es la carpeta con el contenido al drove y comparte el link en público para acceder al código o si no un zip y subirlo a la plataforma. 
+
+
+es más estructura que diseño
